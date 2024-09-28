@@ -1,6 +1,3 @@
-Projeto no Github: https://github.com/dotKingfall/teste-oak
-Vídeo YT: https://youtu.be/ALZTJZQ71LU
-
 **Desafio de programação pra Oak feito em... 1h no máximo, eu espero hahaha
 Edit: Demorou ~3.5h :/
 
